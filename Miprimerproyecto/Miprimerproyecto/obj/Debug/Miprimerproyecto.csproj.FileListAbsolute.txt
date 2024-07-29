@@ -1,0 +1,7 @@
+C:\Users\ayala\OneDrive\Escritorio\Progra1-2024-semi.git\Miprimerproyecto\Miprimerproyecto\bin\Debug\Miprimerproyecto.exe.config
+C:\Users\ayala\OneDrive\Escritorio\Progra1-2024-semi.git\Miprimerproyecto\Miprimerproyecto\bin\Debug\Miprimerproyecto.exe
+C:\Users\ayala\OneDrive\Escritorio\Progra1-2024-semi.git\Miprimerproyecto\Miprimerproyecto\bin\Debug\Miprimerproyecto.pdb
+C:\Users\ayala\OneDrive\Escritorio\Progra1-2024-semi.git\Miprimerproyecto\Miprimerproyecto\obj\Debug\Miprimerproyecto.csproj.AssemblyReference.cache
+C:\Users\ayala\OneDrive\Escritorio\Progra1-2024-semi.git\Miprimerproyecto\Miprimerproyecto\obj\Debug\Miprimerproyecto.csproj.CoreCompileInputs.cache
+C:\Users\ayala\OneDrive\Escritorio\Progra1-2024-semi.git\Miprimerproyecto\Miprimerproyecto\obj\Debug\Miprimerproyecto.exe
+C:\Users\ayala\OneDrive\Escritorio\Progra1-2024-semi.git\Miprimerproyecto\Miprimerproyecto\obj\Debug\Miprimerproyecto.pdb
