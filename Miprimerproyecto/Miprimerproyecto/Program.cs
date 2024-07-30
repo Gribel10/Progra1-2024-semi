@@ -10,16 +10,11 @@ namespace Miprimerproyecto
     {
         static void Main(string[] args)
         {
-            //Suma de dos numeros decimales
+            //Operadores logicos ejemplos
+            int respuesta = 5 + 8 - 2 * 5 / 4 + 1; //12.00
+            Console.WriteLine("La respuesta es: {0}", respuesta);
 
-            Console.Write("num1:");
-            double num1 = double.Parse(Console.ReadLine()); //"5" ->
-
-            Console.Write("num2:");
-            double num2 = double.Parse(Console.ReadLine());
-
-            double respuesta = num1 + num2;
-            Console.WriteLine("La suma de {0} + {1} = {2}", num1, num2, respuesta);
+            Console.WriteLine("La division es 5/4 es {0}", 5 / 4);
 
             //Pausa
             Console.ReadLine();
